@@ -1,0 +1,44 @@
+{
+  "models": [
+	{
+		"part": "head",
+		"model": "chicken_head.jpm",
+		"attach": "false" 
+	},
+	{
+		"part": "chin",
+		"model": "chicken_chin.jpm",
+		"attach": "false" 
+	},
+	{
+		"part": "bill",
+		"model": "chicken_bill.jpm",
+		"attach": "false" 
+	},
+	{
+		"part": "body",
+		"model": "chicken_body.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "right_wing",
+		"model": "chicken_wing1.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "left_wing",
+		"model": "chicken_wing2.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "right_leg",
+		"model": "chicken_leg1.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "left_leg",
+		"model": "chicken_leg2.jpm",
+		"attach": "false" 
+		}
+	]
+}

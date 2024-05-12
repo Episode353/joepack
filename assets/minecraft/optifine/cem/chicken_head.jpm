@@ -1,0 +1,31 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made by Kruzer",
+	"boxes": [
+		{
+			"coordinates": [-2, -6, -2, 4, 6, 3],
+			"uvNorth": [3, 3, 7, 9],
+			"uvEast": [0, 3, 3, 9],
+			"uvSouth": [10, 3, 14, 9],
+			"uvWest": [7, 3, 10, 9],
+			"uvUp": [7, 3, 3, 0],
+			"uvDown": [11, 0, 7, 3]
+		},
+		{
+			"coordinates": [-2, -10, 0, 5, 4, 0],
+			"uvNorth": [38, 19, 43, 23],
+			"uvEast": [0, 0, 0, 5],
+			"uvWest": [0, 0, 0, 5],
+			"uvUp": [0, 0, 4, 0],
+			"uvDown": [0, 0, 4, 0]
+		},
+		{
+			"coordinates": [1, -10, -2, 0, 4, 5],
+			"uvNorth": [38, 19, 43, 23],
+			"uvEast": [38, 19, 43, 23],
+			"uvSouth": [0, 0, 0, 0],
+			"uvUp": [0, 0, 4, 0],
+			"uvDown": [0, 0, 4, 0]
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "textureSize": [64, 32],
+  "models": 
+  [
+	{
+		"part": "head",
+		"model": "pig_head.jpm",
+		"attach": "true" 
+		}
+	]
+}

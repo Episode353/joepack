@@ -1,0 +1,16 @@
+{
+	"texture": "textures/entity/rabbit/jumbo_rabbit",
+	"textureSize": [64, 64],
+	"credit": "Made by Kruzer",
+	"boxes": [
+		{
+			"coordinates": [-2, -4, -5, 2, 11, 3],
+			"uvNorth": [15, 30, 17, 41],
+			"uvEast": [17, 30, 20, 41],
+			"uvSouth": [20, 30, 22, 41],
+			"uvWest": [12, 30, 15, 41],
+			"uvUp": [16, 27, 18, 30],
+			"uvDown": [14, 27, 16, 30]
+		}
+	]
+}

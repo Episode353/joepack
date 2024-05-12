@@ -1,0 +1,11 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made by Kruzer",
+	"models": [
+	{
+		"part": "head",
+		"model": "sheep_head.jpm",
+		"attach": "true" 
+		}
+	]
+}

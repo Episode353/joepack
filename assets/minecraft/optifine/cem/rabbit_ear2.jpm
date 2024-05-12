@@ -1,0 +1,25 @@
+{
+		"texture": "textures/entity/rabbit/jumbo_rabbit",
+	"textureSize": [64, 64],
+	"credit": "Made by Kruzer",
+	"boxes": [
+		{
+			"coordinates": [0, -21, -4, 3, 10, 1],
+			"uvNorth": [57, 1, 60, 11],
+			"uvEast": [56, 1, 57, 11],
+			"uvSouth": [61, 1, 64, 11],
+			"uvWest": [60, 1, 61, 11],
+			"uvUp": [58, 0, 60, 1],
+			"uvDown": [60, 0, 62, 1]
+		},
+		{
+			"coordinates": [0, -11, -4, 2, 2, 1],
+			"uvNorth": [57, 11, 59, 13],
+			"uvEast": [56, 11, 57, 13],
+			"uvSouth": [62, 11, 64, 13],
+			"uvWest": [59, 11, 60, 13],
+			"uvUp": [58, 0, 60, 1],
+			"uvDown": [60, 0, 62, 1]
+		}
+	]
+}

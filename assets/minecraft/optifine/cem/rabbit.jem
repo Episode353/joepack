@@ -1,0 +1,65 @@
+{
+  "textureSize": [64, 64],
+  "models": [
+	{
+		"part": "left_foot",
+		"model": "rabbit_foot1.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "right_foot",
+		"model": "rabbit_foot2.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "left_thigh",
+		"model": "rabbit_thigh1.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "right_thigh",
+		"model": "rabbit_thigh2.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "body",
+		"model": "rabbit_body.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "left_arm",
+		"model": "rabbit_arm1.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "right_arm",
+		"model": "rabbit_arm2.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "head",
+		"model": "rabbit_head.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "left_ear",
+		"model": "rabbit_ear1.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "right_ear",
+		"model": "rabbit_ear2.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "tail",
+		"model": "rabbit_tail.jpm",
+		"attach": "true"
+	},
+	{
+		"part": "nose",
+		"model": "rabbit_nose.jpm",
+		"attach": "true"
+		}
+	]
+}
